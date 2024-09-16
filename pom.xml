@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>praktikum</artifactId>
+    <artifactId>ru.yandex.practicum</artifactId>
     <name>Diplom_1</name>
     <developers>
         <developer>
